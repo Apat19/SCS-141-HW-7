@@ -13,6 +13,8 @@
 		D92B4EAA29F862D20025E249 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D92B4EA829F862D20025E249 /* Main.storyboard */; };
 		D92B4EAC29F862D50025E249 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D92B4EAB29F862D50025E249 /* Assets.xcassets */; };
 		D92B4EAF29F862D50025E249 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D92B4EAD29F862D50025E249 /* LaunchScreen.storyboard */; };
+		D92B4EB729F863FD0025E249 /* Pinch Gesture.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D92B4EB629F863FD0025E249 /* Pinch Gesture.jpeg */; };
+		D92B4EBD29F86D380025E249 /* Tap Gesture.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D92B4EBC29F86D370025E249 /* Tap Gesture.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D92B4EAB29F862D50025E249 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D92B4EAE29F862D50025E249 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D92B4EB029F862D50025E249 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D92B4EB629F863FD0025E249 /* Pinch Gesture.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pinch Gesture.jpeg"; sourceTree = "<group>"; };
+		D92B4EBC29F86D370025E249 /* Tap Gesture.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Tap Gesture.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				D92B4EA629F862D20025E249 /* ViewController.swift */,
 				D92B4EA829F862D20025E249 /* Main.storyboard */,
 				D92B4EAB29F862D50025E249 /* Assets.xcassets */,
+				D92B4EB629F863FD0025E249 /* Pinch Gesture.jpeg */,
+				D92B4EBC29F86D370025E249 /* Tap Gesture.jpeg */,
 				D92B4EAD29F862D50025E249 /* LaunchScreen.storyboard */,
 				D92B4EB029F862D50025E249 /* Info.plist */,
 			);
@@ -128,6 +134,8 @@
 				D92B4EAF29F862D50025E249 /* LaunchScreen.storyboard in Resources */,
 				D92B4EAC29F862D50025E249 /* Assets.xcassets in Resources */,
 				D92B4EAA29F862D20025E249 /* Main.storyboard in Resources */,
+				D92B4EBD29F86D380025E249 /* Tap Gesture.jpeg in Resources */,
+				D92B4EB729F863FD0025E249 /* Pinch Gesture.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
